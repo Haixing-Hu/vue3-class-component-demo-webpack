@@ -4,14 +4,19 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import { Component, toVue } from '@haixing_hu/vue3-class-component';
+import HelloWorld from './components/HelloWorld.vue';
 
-export default {
-  name: 'App',
+@Component({
   components: {
-    HelloWorld
-  }
+    HelloWorld,
+  },
+})
+class App {
+  // empty
 }
+
+export default toVue(App);
 </script>
 
 <style>

@@ -31,12 +31,15 @@
 </template>
 
 <script>
-export default {
-  name: 'HelloWorld',
-  props: {
-    msg: String
-  }
+import { Component, Prop, toVue } from '@haixing_hu/vue3-class-component';
+
+@Component
+class HelloWorld {
+  @Prop
+  msg = ''
 }
+
+export default toVue(HelloWorld);
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
