@@ -1,7 +1,25 @@
 {
   "name": "vue3-class-component-demo-webpack",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "A demo project for vue3-class-component",
   "private": true,
+  "author": "Haixing Hu",
+  "license": "Apache License 2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haixing-Hu/vue3-class-component-demo-webpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Haixing-Hu/vue3-class-component-demo-webpack/issues"
+  },
+  "homepage": "https://github.com/Haixing-Hu/vue3-class-component-demo-webpack",
+  "keywords": [
+    "vue",
+    "vue3",
+    "class",
+    "decorator",
+    "babel"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
