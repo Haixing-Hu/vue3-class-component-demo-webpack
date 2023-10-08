@@ -3,7 +3,7 @@
 This is a demo project of [vue3-class-component], using [vue-cli] with [webpack]
 template.
 
-The following steps show how to create this project.
+The following steps will guide you through the project creation process.
 
 1.  Create a Vue3 project using [vue-cli] with [webpack] template.
     ```shell
