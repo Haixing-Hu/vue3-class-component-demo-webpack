@@ -72,7 +72,7 @@ The following steps will guide you through the project creation process.
     export default toVue(HelloWorld);
     ```
 
-6.  Edit `src/App.vue` to modify its `<script>` content as follows:
+7.  Edit `src/App.vue` to modify its `<script>` content as follows:
     ```javascript
     import { Component, toVue } from '@haixing_hu/vue3-class-component';
     import HelloWorld from './components/HelloWorld.vue';
