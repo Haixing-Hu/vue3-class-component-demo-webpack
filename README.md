@@ -45,7 +45,7 @@ The following steps will guide you through the project creation process.
     yarn add --dev @babel/plugin-transform-runtime
     ```
 
-5.  Edit `babel.config.js` to modify its content as follows:
+5.  Configure [Babel]. Edit `babel.config.js` to modify its content as follows:
     ```javascript
     module.exports = {
       presets: [
@@ -97,3 +97,4 @@ The following steps will guide you through the project creation process.
 [vue3-class-component]: https://github.com/Haixing-Hu/vue3-class-component
 [vue-cli]: https://cli.vuejs.org/
 [webpack]: https://webpack.js.org/
+[Babel]: https://babeljs.io/
