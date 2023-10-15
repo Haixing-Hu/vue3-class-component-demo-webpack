@@ -1453,12 +1453,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@haixing_hu/vue3-class-component@npm:^1.0.4":
-  version: 1.0.4
-  resolution: "@haixing_hu/vue3-class-component@npm:1.0.4"
+"@haixing_hu/vue3-class-component@npm:^1.2.0":
+  version: 1.2.0
+  resolution: "@haixing_hu/vue3-class-component@npm:1.2.0"
   peerDependencies:
     vue: ^3.3.4
-  checksum: 9cecbf65a776f310f34def731d9ebbe0aedd2755b794dd7a834d62758086469498362ab91b06ac07355c67743b2fef9a81ddbd33b3ff9b0059a673e0f6c93260
+  checksum: f9002f58faf23ae830d89dd1c5247d745e7c8137d6d4da05749fe77211936bf8f9b0bdb9546e841e0c8b1c7ae876a351783f05dd196ba7619dbb3ca2a5a1427d
   languageName: node
   linkType: hard
 
@@ -8675,7 +8675,7 @@ __metadata:
     "@babel/plugin-transform-runtime": ^7.22.15
     "@babel/preset-env": ^7.22.20
     "@babel/runtime": ^7.23.1
-    "@haixing_hu/vue3-class-component": ^1.0.4
+    "@haixing_hu/vue3-class-component": ^1.2.0
     "@vue/cli-plugin-babel": ^5.0.8
     "@vue/cli-plugin-eslint": ^5.0.8
     "@vue/cli-service": ^5.0.8
