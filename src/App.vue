@@ -1,3 +1,11 @@
+<!------------------------------------------------------------------------------
+  -
+  -    Copyright (c) 2022 - 2023.
+  -    Haixing Hu, Qubit Co. Ltd.
+  -
+  -    All rights reserved.
+  -
+  ----------------------------------------------------------------------------->
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
